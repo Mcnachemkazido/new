@@ -1,2 +1,4 @@
 for i in range(10):
-    print("elooe")
+    print("elooesdddd")
+    for g in range(5):
+        print("a")
